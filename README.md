@@ -45,3 +45,7 @@ Here, I've investigated and measured music data and gleaned insightful conclusio
 13. **Top 5 Genres by Popularity**
 
 ![Screenshot 2022-11-27 003131](https://github.com/patilchetan25/Spotify_Data_Analysis_Using_Python/assets/88223249/80bbba93-c69b-40ee-ae30-1c3875af16a0)
+
+## Author 🔗 👇 
+
+### [Chetan_Patil](https://www.linkedin.com/in/chetan-patil-345979197/)
